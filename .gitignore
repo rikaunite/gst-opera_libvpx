@@ -4,7 +4,6 @@
 *.o
 *~
 /*-*.mk
-/*.asm
 /*.doxy
 /.bins
 /.deps
@@ -56,7 +55,4 @@
 /vp8cx_set_ref
 /vp8cx_set_ref.c
 /vp8cx_set_ref.dox
-/vpx_config.c
-/vpx_config.h
-/vpx_version.h
 TAGS
